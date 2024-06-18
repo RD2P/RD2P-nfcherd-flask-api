@@ -10,7 +10,7 @@ from . import main
 
 
 @main.route("/", methods=["GET"])
-def get_server_status():
+def default_server_status():
     server_info = {
         "server": "running",
         "time": datetime.datetime.utcnow().isoformat() + "Z",
