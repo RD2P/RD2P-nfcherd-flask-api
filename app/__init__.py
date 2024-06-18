@@ -1,5 +1,6 @@
 import mongoengine as me
 from flask import Flask
+from flask_cors import CORS
 
 from app.config import Config
 
@@ -10,6 +11,9 @@ def create_app():
     print(" ********************* Initialized Flask ********************* ")
 
     me.connect(app.config["MONGODB_NAME"], host=app.config["MONGODB_URI"])
+
+    # Enable CORS for the entire application
+    CORS(app)
 
     with app.app_context():
         print("Plug in any app context here")
