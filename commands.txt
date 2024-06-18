@@ -1,0 +1,5 @@
+// Create environment Python 3.3+
+python -m venv nfc-herd-env
+
+// Activate env
+source nfc-herd-env/bin/activate
