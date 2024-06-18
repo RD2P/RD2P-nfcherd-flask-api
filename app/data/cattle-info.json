@@ -1,0 +1,292 @@
+[
+  {
+    "rfid": "RFID1234561",
+    "animal_id": "A12345",
+    "breed": "Angus",
+    "date_of_birth": "2020-04-25",
+    "gender": "Male",
+    "owner_info": {
+      "name": "John Doe",
+      "address": "123 Farm Lane, Farmville",
+      "contact_number": "123-456-7890"
+    },
+    "location": "Farmville",
+    "health_records": [
+      {
+        "checkup_date": "2024-01-10",
+        "notes": "Healthy",
+        "veterinarian": "Dr. Adams"
+      }
+    ],
+    "vaccination_records": [
+      {
+        "vaccine_name": "Rabies",
+        "date": "2023-05-15",
+        "administered_by": "Dr. Smith"
+      }
+    ],
+    "weight": 700.5,
+    "last_update": "2024-06-17"
+  },
+  {
+    "rfid": "RFID1234562",
+    "animal_id": "A12346",
+    "breed": "Hereford",
+    "date_of_birth": "2019-07-30",
+    "gender": "Female",
+    "owner_info": {
+      "name": "Jane Smith",
+      "address": "456 Ranch Road, Ranchville",
+      "contact_number": "234-567-8901"
+    },
+    "location": "Ranchville",
+    "health_records": [
+      {
+        "checkup_date": "2024-02-15",
+        "notes": "Minor infection treated",
+        "veterinarian": "Dr. Johnson"
+      }
+    ],
+    "vaccination_records": [
+      {
+        "vaccine_name": "Bovine Virus",
+        "date": "2023-06-10",
+        "administered_by": "Dr. Williams"
+      }
+    ],
+    "weight": 650.0,
+    "last_update": "2024-06-17"
+  },
+  {
+    "rfid": "RFID1234563",
+    "animal_id": "A12347",
+    "breed": "Holstein",
+    "date_of_birth": "2018-12-05",
+    "gender": "Female",
+    "owner_info": {
+      "name": "Robert Brown",
+      "address": "789 Barn Street, Farmington",
+      "contact_number": "345-678-9012"
+    },
+    "location": "Farmington",
+    "health_records": [
+      {
+        "checkup_date": "2024-03-12",
+        "notes": "Lactation period",
+        "veterinarian": "Dr. Green"
+      }
+    ],
+    "vaccination_records": [
+      {
+        "vaccine_name": "Foot-and-Mouth Disease",
+        "date": "2023-07-20",
+        "administered_by": "Dr. Martinez"
+      }
+    ],
+    "weight": 720.3,
+    "last_update": "2024-06-17"
+  },
+  {
+    "rfid": "RFID1234564",
+    "animal_id": "A12348",
+    "breed": "Jersey",
+    "date_of_birth": "2021-03-22",
+    "gender": "Male",
+    "owner_info": {
+      "name": "Emily Davis",
+      "address": "101 Farm Road, Cowtown",
+      "contact_number": "456-789-0123"
+    },
+    "location": "Cowtown",
+    "health_records": [
+      {
+        "checkup_date": "2024-04-18",
+        "notes": "Healthy",
+        "veterinarian": "Dr. Lee"
+      }
+    ],
+    "vaccination_records": [
+      {
+        "vaccine_name": "Bovine Respiratory Disease",
+        "date": "2023-08-25",
+        "administered_by": "Dr. Taylor"
+      }
+    ],
+    "weight": 690.2,
+    "last_update": "2024-06-17"
+  },
+  {
+    "rfid": "RFID1234565",
+    "animal_id": "A12349",
+    "breed": "Simmental",
+    "date_of_birth": "2017-10-15",
+    "gender": "Female",
+    "owner_info": {
+      "name": "Michael Wilson",
+      "address": "202 Cattle Drive, Ranchland",
+      "contact_number": "567-890-1234"
+    },
+    "location": "Ranchland",
+    "health_records": [
+      {
+        "checkup_date": "2024-05-22",
+        "notes": "Pregnant",
+        "veterinarian": "Dr. Young"
+      }
+    ],
+    "vaccination_records": [
+      {
+        "vaccine_name": "Clostridial Disease",
+        "date": "2023-09-30",
+        "administered_by": "Dr. Harris"
+      }
+    ],
+    "weight": 800.7,
+    "last_update": "2024-06-17"
+  },
+  {
+    "rfid": "RFID1234566",
+    "animal_id": "A12350",
+    "breed": "Limousin",
+    "date_of_birth": "2020-06-17",
+    "gender": "Male",
+    "owner_info": {
+      "name": "William Jones",
+      "address": "303 Pasture Place, Grassland",
+      "contact_number": "678-901-2345"
+    },
+    "location": "Grassland",
+    "health_records": [
+      {
+        "checkup_date": "2024-06-01",
+        "notes": "Minor injury treated",
+        "veterinarian": "Dr. Walker"
+      }
+    ],
+    "vaccination_records": [
+      {
+        "vaccine_name": "Anthrax",
+        "date": "2023-10-05",
+        "administered_by": "Dr. King"
+      }
+    ],
+    "weight": 750.4,
+    "last_update": "2024-06-17"
+  },
+  {
+    "rfid": "RFID1234567",
+    "animal_id": "A12351",
+    "breed": "Charolais",
+    "date_of_birth": "2019-02-11",
+    "gender": "Female",
+    "owner_info": {
+      "name": "David White",
+      "address": "404 Meadow Lane, Plainsville",
+      "contact_number": "789-012-3456"
+    },
+    "location": "Plainsville",
+    "health_records": [
+      {
+        "checkup_date": "2024-06-10",
+        "notes": "Healthy",
+        "veterinarian": "Dr. Hall"
+      }
+    ],
+    "vaccination_records": [
+      {
+        "vaccine_name": "Bovine Tuberculosis",
+        "date": "2023-11-15",
+        "administered_by": "Dr. Scott"
+      }
+    ],
+    "weight": 820.6,
+    "last_update": "2024-06-17"
+  },
+  {
+    "rfid": "RFID1234568",
+    "animal_id": "A12352",
+    "breed": "Gelbvieh",
+    "date_of_birth": "2022-01-05",
+    "gender": "Male",
+    "owner_info": {
+      "name": "Sarah Moore",
+      "address": "505 Ranch Road, Rangeville",
+      "contact_number": "890-123-4567"
+    },
+    "location": "Rangeville",
+    "health_records": [
+      {
+        "checkup_date": "2024-06-12",
+        "notes": "Healthy",
+        "veterinarian": "Dr. Wright"
+      }
+    ],
+    "vaccination_records": [
+      {
+        "vaccine_name": "Leptospirosis",
+        "date": "2023-12-20",
+        "administered_by": "Dr. Clark"
+      }
+    ],
+    "weight": 680.9,
+    "last_update": "2024-06-17"
+  },
+  {
+    "rfid": "RFID1234569",
+    "animal_id": "A12353",
+    "breed": "Shorthorn",
+    "date_of_birth": "2018-09-09",
+    "gender": "Female",
+    "owner_info": {
+      "name": "Patricia Martinez",
+      "address": "606 Farm Road, Grassland",
+      "contact_number": "901-234-5678"
+    },
+    "location": "Grassland",
+    "health_records": [
+      {
+        "checkup_date": "2024-06-14",
+        "notes": "Healthy",
+        "veterinarian": "Dr. Lewis"
+      }
+    ],
+    "vaccination_records": [
+      {
+        "vaccine_name": "Bovine Viral Diarrhea",
+        "date": "2023-01-25",
+        "administered_by": "Dr. Robinson"
+      }
+    ],
+    "weight": 770.5,
+    "last_update": "2024-06-17"
+  },
+  {
+    "rfid": "RFID1234570",
+    "animal_id": "A12354",
+    "breed": "Brahman",
+    "date_of_birth": "2021-08-14",
+    "gender": "Male",
+    "owner_info": {
+      "name": "Linda Garcia",
+      "address": "707 Ranch Road, Farmland",
+      "contact_number": "012-345-6789"
+    },
+    "location": "Farmland",
+    "health_records": [
+      {
+        "checkup_date": "2024-06-16",
+        "notes": "Healthy",
+        "veterinarian": "Dr. King"
+      }
+    ],
+    "vaccination_records": [
+      {
+        "vaccine_name": "Brucellosis",
+        "date": "2023-02-28",
+        "administered_by": "Dr. Turner"
+      }
+    ],
+    "weight": 810.1,
+    "last_update": "2024-06-17"
+  }
+]
